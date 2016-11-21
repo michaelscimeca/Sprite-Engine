@@ -1,0 +1,19 @@
+{
+  "name": "emso-sprite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-print": "^2.0.1",
+    "gulp-sort": "^2.0.0",
+    "gulp.spritesmith": "^6.2.1",
+    "lodash": "^4.13.1"
+  }
+}
